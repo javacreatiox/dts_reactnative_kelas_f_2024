@@ -4,8 +4,9 @@
           "city":"Surabaya",
           "linkin":"git@github.com:rachmadirawan/dts_reactnative_kelas_f_2024.git"
         },
-        {
-         
-        }
+        {"name":"M Rizqi Alfani",
+          "city":"Semarang",
+          "linkin":"git@github.com:rizqialfani/dts_reactnative_kelas_f_2024.git"
+        },
     ]
 }

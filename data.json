@@ -1,13 +1,24 @@
 {
-    "data":[
-        {"name":"Rachmad Irawan",
-          "city":"Surabaya",
-          "linkin":"git@github.com:rachmadirawan/dts_reactnative_kelas_f_2024.git"
-        },
-        {
-          "name": "Waman Daka Wardani",
-          "city": "Jakarta",
-          "portfolio": "https://wamandaka.vercel.app"
-        }
-    ]
+  "data": [
+    {
+      "name": "Rachmad Irawan",
+      "city": "Surabaya",
+      "linkin": "git@github.com:rachmadirawan/dts_reactnative_kelas_f_2024.git"
+    },
+    {
+      "name": "M Rizqi Alfani",
+      "city": "Semarang",
+      "linkin": "git@github.com:rizqialfani/dts_reactnative_kelas_f_2024.git"
+    },
+    {
+      "name": "Mochammad Fauzan Fadilah",
+      "city": "Cirebon",
+      "linkin": "https://www.linkedin.com/in/mochammad-fauzan-fadilah-542161256"
+    },
+    {
+      "name": "Waman Daka Wardani",
+      "city": "Jakarta",
+      "portfolio": "https://wamandaka.vercel.app"
+    }
+  ]
 }
